@@ -1,6 +1,6 @@
 # SmartPulse Case for Long Term Internship
 
-##Steps
+## Steps
 
 1. I converted the given xml data file to json format.
 2. I filtered the desired data
